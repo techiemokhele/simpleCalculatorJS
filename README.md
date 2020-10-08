@@ -1,0 +1,1 @@
+This Is A Javascript Sample Project For Students. This Project Is Developed By Html, Css, And Javascript. Any Percentage On This Project Can Be Calculated Very Easily. 
